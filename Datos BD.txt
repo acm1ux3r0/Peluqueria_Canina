@@ -1,0 +1,7 @@
+DATOS BASE DE DATOS:
+Usuario: root.
+Pass: .
+Url: localhost:3306.
+BD: peluqueria.
+Drv: org.mariadb.jdbc.Driver.
+El proyecto incluye una clase de conexion.
